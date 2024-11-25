@@ -1,0 +1,18 @@
+h1
+{
+	color:blue  ;
+}
+.PigierBénin
+{
+display: flex;
+flex-direction:column ;
+}
+.header
+{
+display: flex;
+flex-direction:column;
+}
+.IfeOluwa
+{
+margin-left: auto;
+}
